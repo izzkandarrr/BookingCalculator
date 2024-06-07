@@ -32,7 +32,7 @@
                 <td>RM 8</td>
                 <td>RM 8</td>
                 <td>RM 8</td>
-                <td>RM 6</td>
+                <td>RM 7</td>
             </tr>
             <tr>
                 <td>Sunday</td>
